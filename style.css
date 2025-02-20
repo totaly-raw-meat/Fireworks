@@ -1,0 +1,76 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: aquamarine;
+    padding: 15px;
+}
+
+header b {
+    color: red;
+}
+
+header a {
+    color: darkgreen;
+    padding: 10px;
+    margin: 5px;
+    text-decoration: none;
+    border: 5px solid rgb(174, 49, 186);
+}
+
+h1 {
+    color: palegoldenrod;
+    background-color: greenyellow;
+    text-align: center;
+    padding: 5px;
+}
+
+footer {
+    background-color:green ;
+    color: yellow ;
+    padding: 5px;
+}
+
+footer p {
+    background-color: royalblue;
+    margin: 20px;
+}
+
+nav {
+    border: 5px blue;
+    background-color: brown;
+    margin: 20px;
+    padding: 10px;
+}
+
+nav a {
+    background-color: yellow;
+}
+
+.products p {
+    background-color: green;
+    color: red;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 30px;
+}
+
+h2 {
+    background-color: aquamarine;
+    color: red;
+    border-radius: 30px;
+}
+
+a {
+    background-color: blueviolet;
+    border-radius: 30px;
+}
+
+p {
+    background-color: darkcyan;
+    color: red;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 1px;
+}
